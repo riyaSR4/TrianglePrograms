@@ -8,7 +8,7 @@ namespace TrianglePrograms
         {
             Triangles triangles = new Triangles();
             triangles.AlphabetTriangle();
-
+            triangles.NumberTriangle();
         }
     }
 }
